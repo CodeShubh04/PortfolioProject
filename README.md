@@ -1,4 +1,4 @@
-# Portfolio Project
+# Portfolio Project — SQL Data Analysis & Cleaning
 
 ## Project Objective
 
