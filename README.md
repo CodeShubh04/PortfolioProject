@@ -1,4 +1,4 @@
-# Portfolio Project – Business Data Analysis
+# Portfolio Project
 
 ## Project Objective
 
